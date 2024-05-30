@@ -1,4 +1,5 @@
 # A Cryptography CTF Developed by H34TB145T
+Difficulty: Medium - Hard (Depends on your experience) 
 
 ## Description
 This repository was built to test the Cryptography skills, playing it as a CTF (Capture The Flag) game.
