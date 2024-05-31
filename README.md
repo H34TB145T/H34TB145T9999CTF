@@ -13,5 +13,5 @@ https://devtoolcafe.com/tools/rsa
 ## Binary Bitwise Circular Operator Encryption, Decryption
 https://www.dcode.fr/circular-bit-shift
 
-## Aplhabetical Substitution Encryption, Decryption
+## Alphabetical Substitution Encryption, Decryption
 https://cryptii.com/pipes/alphabetical-substitution
