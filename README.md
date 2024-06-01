@@ -2,9 +2,7 @@
 Difficulty: Medium - Hard (Depends on your experience) 
 
 ## Description
-This repository was built to test the Cryptography skills, playing it as a CTF (Capture The Flag) game.
-I grantee you will find this interesting, as I have put some efforts to entertain the Players.
-Tip: Always check page sources.
+This CTF was developed to test the Cryptography skills. In this box, I've put less than 10 Cryptographic algorithms all mixed together. I grantee you will find this interesting, as I have put some efforts to entertain the Players. I've hidden some flags in it. I've uploaded this challenge on my Facebook account initially as a step 1. From this GitHub you can assume you are continuing from the step 2.
 
 # Useful online sources
 ## RSA Encryption Decryption
